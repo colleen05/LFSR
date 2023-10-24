@@ -23,3 +23,15 @@ This project showcases generation of pseudorandom numbers via LFSR (linear feedb
 4. Run `show.py`
 
 If not disabled, the script will have output an image, `dist.png`, containing a visualisation of the values.
+
+## Samples
+
+### Graph
+
+![Graph](Images/SampleGraph.png)
+
+### Distribution
+
+*(Enlarged 2x. See `Images/SampleDistribution.png` for raw data.)*
+
+![Distribution](Images/SampleDistribution_2x.png)
